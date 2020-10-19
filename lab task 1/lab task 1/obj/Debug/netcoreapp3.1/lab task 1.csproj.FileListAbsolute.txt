@@ -1,0 +1,13 @@
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.exe
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.deps.json
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.runtimeconfig.json
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.runtimeconfig.dev.json
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.dll
+G:\C#\lab task 1\lab task 1\bin\Debug\netcoreapp3.1\lab task 1.pdb
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.csprojAssemblyReference.cache
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.AssemblyInfoInputs.cache
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.AssemblyInfo.cs
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.csproj.CoreCompileInputs.cache
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.dll
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.pdb
+G:\C#\lab task 1\lab task 1\obj\Debug\netcoreapp3.1\lab task 1.genruntimeconfig.cache
